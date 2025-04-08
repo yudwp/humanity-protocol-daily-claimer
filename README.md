@@ -4,22 +4,6 @@
   <h3>Automate your daily reward claims on the Humanity Protocol Testnet!</h3>
 </div>
 
----
-
-## 📖 Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## 🚀 Introduction
 
 **Humanity Protocol Daily Claimer** is a Node.js bot that automatically checks and claims daily rewards from the Humanity Protocol Testnet. It uses [Web3.js](https://github.com/ChainSafe/web3.js) to interact with smart contracts and is optimized for simplicity, automation, and security.
