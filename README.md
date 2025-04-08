@@ -77,15 +77,6 @@ Run the bot using:
 node index.js
 ```
 
-Output example:
-
-```
-🚀 Loaded 5 wallet(s)
-📡 Connecting to RPC...
-✅ Claimed reward for 0xAbc...123
-⏱️ Waiting 6 hours before next claim...
-```
-
 ---
 
 ## 🤝 Contributing
