@@ -1,0 +1,22 @@
+{
+  "name": "humanity-protocol-daily-claimer",
+  "version": "1.0.0",
+  "description": "Node.js bot to automate daily reward claims on Humanity Protocol",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "humanity-protocol",
+    "claimer",
+    "automation",
+    "web3",
+    "blockchain"
+  ],
+  "author": "yudwp",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.8.2",
+    "chalk": "^5.2.0"
+  }
+}
